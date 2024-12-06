@@ -5,6 +5,43 @@
   </span>
 </h1>
 
+---
+
+<h2 align="center">💼 Experience</h2>
+
+### 🏢 **MERN STACK DEVELOPER**  
+**Manasvi Technologies OPC Pvt. Ltd., Bhopal, India** *(June 2023 - Present)*  
+- 🚀 **Key Contributions**:
+  - Developed and deployed scalable web applications, ensuring high performance and reliability.  
+  - Led MERN stack projects, managing full-cycle development from planning to deployment.  
+  - Administered databases and managed Virtual Private Servers (VPS) for secure and efficient hosting solutions.  
+  - Collaborated with cross-functional teams to deliver innovative tech solutions on time.  
+
+<details>
+  <summary>📌 Expanded Role: <strong>Team Lead</strong></summary>
+  - Mentored and guided a team of junior developers in technical and project management aspects.  
+  - Streamlined project workflows, ensuring timely and efficient delivery.  
+  - Played a pivotal role in design reviews, ensuring high code quality and adherence to industry standards.  
+  - Spearheaded efforts to modernize existing applications, incorporating cutting-edge technologies.  
+</details>  
+
+---
+
+### 🧑‍💻 **Internships**
+<details>
+  <summary>1. <strong>Web Development Internship</strong> - SCA *(Jan - March 2023)*</summary>
+  - Designed and implemented responsive web applications using modern frameworks and tools.  
+  - Collaborated in a team environment to deliver project milestones successfully.  
+</details>
+
+<details>
+  <summary>2. <strong>Social Entrepreneurship Internship</strong> - Hamari Pehchan NGO *(Dec 2022)*</summary>
+  - Assisted in developing social entrepreneurship initiatives to support underprivileged communities.  
+  - Created digital assets and participated in outreach campaigns.  
+</details>
+
+---
+
 <p align="center">
   Welcome to my GitHub profile! I'm a <strong>passionate MERN Stack Developer</strong> who loves building user-friendly, scalable, and high-performance web applications. 🚀
 </p>
@@ -55,16 +92,6 @@
   <li>🌱 <strong>Lifelong Learner:</strong> Staying updated with the latest trends in web development and always open to new challenges.</li>
   <li>💻 <strong>Tech Stack:</strong> MongoDB | Express | React | Node.js | TailwindCSS | Material-UI | CoreUI</li>
   <li>😄 <strong>Pronouns:</strong> He/Him</li>
-</ul>
-
----
-
-<h2 align="center">👀 Interests</h2>
-<ul>
-  <li>🔗 Building responsive and scalable web apps</li>
-  <li>🤝 Collaborating on open-source projects</li>
-  <li>🧑‍💻 Experimenting with new frameworks and tools</li>
-  <li>🌍 Advocating for clean and maintainable code</li>
 </ul>
 
 ---

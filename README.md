@@ -12,7 +12,7 @@
 
 
 ### 🏢 **FULL STACK MERN DEVELOPER**  
-**Agnito Technologies Pvt. Ltd.** *(June 2025 - Present)*  
+**Agnito Technologies Pvt. Ltd.** *(Jan 2025 - Present)*  
 - 🚀 **Key Contributions**:
   - Designed and implemented user-friendly web applications using the MERN stack.  
   - Collaborated with UI/UX designers to enhance application aesthetics and user experience.  

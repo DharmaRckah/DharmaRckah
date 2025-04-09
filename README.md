@@ -9,21 +9,7 @@
 
 <h2 align="center">💼 Experience</h2>
 
-### 🏢 **MERN STACK DEVELOPER**  
-**Manasvi Technologies OPC Pvt. Ltd., Bhopal, India** *(June 2023 - Present)*  
-- 🚀 **Key Contributions**:
-  - Developed and deployed scalable web applications, ensuring high performance and reliability.  
-  - Led MERN stack projects, managing full-cycle development from planning to deployment.  
-  - Administered databases and managed Virtual Private Servers (VPS) for secure and efficient hosting solutions.  
-  - Collaborated with cross-functional teams to deliver innovative tech solutions on time.  
 
-<details>
-  <summary>📌 Expanded Role: <strong>Team Lead</strong></summary>
-  - Mentored and guided a team of junior developers in technical and project management aspects.  
-  - Streamlined project workflows, ensuring timely and efficient delivery.  
-  - Played a pivotal role in design reviews, ensuring high code quality and adherence to industry standards.  
-  - Spearheaded efforts to modernize existing applications, incorporating cutting-edge technologies.  
-</details>  
 
 ### 🏢 **FULL STACK MERN DEVELOPER**  
 **Agnito Technologies Pvt. Ltd.** *(June 2025 - Present)*  
@@ -40,6 +26,24 @@
   - Engaged in continuous learning and implementation of new technologies to keep the team updated.  
 </details>  
 ---
+
+
+### 🏢 **MERN STACK DEVELOPER**  
+**Manasvi Technologies OPC Pvt. Ltd., Bhopal, India** *(June 2023 - Present)*  
+- 🚀 **Key Contributions**:
+  - Developed and deployed scalable web applications, ensuring high performance and reliability.  
+  - Led MERN stack projects, managing full-cycle development from planning to deployment.  
+  - Administered databases and managed Virtual Private Servers (VPS) for secure and efficient hosting solutions.  
+  - Collaborated with cross-functional teams to deliver innovative tech solutions on time.  
+
+<details>
+  <summary>📌 Expanded Role: <strong>Team Lead</strong></summary>
+  - Mentored and guided a team of junior developers in technical and project management aspects.  
+  - Streamlined project workflows, ensuring timely and efficient delivery.  
+  - Played a pivotal role in design reviews, ensuring high code quality and adherence to industry standards.  
+  - Spearheaded efforts to modernize existing applications, incorporating cutting-edge technologies.  
+</details>  
+
 
 ### 🧑‍💻 **Internships**
 <details>

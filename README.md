@@ -25,6 +25,20 @@
   - Spearheaded efforts to modernize existing applications, incorporating cutting-edge technologies.  
 </details>  
 
+### 🏢 **FULL STACK MERN DEVELOPER**  
+**Agnito Technologies Pvt. Ltd.** *(June 2025 - Present)*  
+- 🚀 **Key Contributions**:
+  - Designed and implemented user-friendly web applications using the MERN stack.  
+  - Collaborated with UI/UX designers to enhance application aesthetics and user experience.  
+  - Integrated RESTful APIs and third-party services to improve application functionality.  
+  - Conducted code reviews and provided constructive feedback to ensure best practices.  
+
+<details>
+  <summary>📌 Expanded Role: <strong>Senior Developer</strong></summary>
+  - Led a team of developers in agile project management, ensuring timely delivery of features.  
+  - Developed and maintained documentation for code and application architecture.  
+  - Engaged in continuous learning and implementation of new technologies to keep the team updated.  
+</details>  
 ---
 
 ### 🧑‍💻 **Internships**
